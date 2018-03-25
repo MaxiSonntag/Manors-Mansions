@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerScript.cs">
+    <Files>
+      <File FileName="Assets\PlayButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="34" Column="44" />
+      <File FileName="Assets\AudioManagerInterface.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChangeValueScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\AudioManaging.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SplashscreenScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseScreenButtons.cs" Line="1" Column="1" />
+      <File FileName="Assets\AudioManagingGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\collideScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\SceneChange.cs" Line="1" Column="1" />
+      <File FileName="Assets\LoadStageItemsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\CaveScript.cs" Line="40" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
